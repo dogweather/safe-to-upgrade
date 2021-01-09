@@ -1,20 +1,22 @@
 ## "Is it safe to upgrade?"
 
-Crowdsourced db for developers. Can we take a chance and upgrade our work machine?
+Crowdsourced db of dev tools, interpreters, and compilers. Can we take a chance and upgrade our work machine?
 
 ### macOS
 
 App             | Big Sur 11.1
 --------------- | ------------------
-Homebrew        | `unconfirmed` [It should be compatible since v. 2.6.0.](https://brew.sh/2020/12/01/homebrew-2.6.0/)
+Homebrew        | `unconfirmed` [Compatible since v. 2.6.0.](https://brew.sh/2020/12/01/homebrew-2.6.0/)
 VS Code         | `maybe not` [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
 Emacs           | ?
-Rust (Rustup)   | ?
 Haskell (Stack) | ?
-Ruby (rbenv)    | ?
 Python (pyenv)  | ?
+Ruby (rbenv)    | ?
+Rust (rustup)   | ?
 
-> Other OS's to go here.
+### Flavors of Linux, Windows, etc.
+
+> Create these here.
 
 ### Add your knowledge
 
