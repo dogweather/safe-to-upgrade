@@ -14,14 +14,10 @@ Haskell (Stack) | ?
 Ruby (rbenv)    | ?
 Python (pyenv)  | ?
 
-### Linux
-
-### Windows
+_Add other OS's here._
 
 ### Add your knowledge
 
-Help out by:
-
-* [Asking questions in the forum](https://github.com/dogweather/safe-to-upgrade/discussions)
-* [Creating a new issue](https://github.com/dogweather/safe-to-upgrade/issues)
-* [Submitting a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md)
+* [Ask a question in the forum](https://github.com/dogweather/safe-to-upgrade/discussions)
+* [Create a new issue](https://github.com/dogweather/safe-to-upgrade/issues)
+* [Submit a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md)
