@@ -1,6 +1,6 @@
 ## "Is it safe to upgrade?"
 
-App      | macOS 11.1 Big Sur
+App      | macOS Big Sur 11.1
 -------- | ------------------
 Homebrew | ?
 VS Code  | ?    
