@@ -9,6 +9,7 @@ App             | Catalina 10.15.7 | Big Sur 11.1
 Homebrew        | :+1: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
 VS Code         | :+1: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
 Emacs           | :+1: | :grey_question:
+Elixir          | :+1: | :grey_question:
 Haskell (Stack) | :+1: | :grey_question:
 Node            | :+1: | :grey_question:
 Python (pyenv)  | :+1: | :grey_question:
