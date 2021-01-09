@@ -13,5 +13,5 @@ Stack (Haskell) | ?
 Help out by:
 
 * [Asking questions in the forum](https://github.com/dogweather/safe-to-upgrade/discussions)
-* [Creating a new issue](https://github.com/dogweather/safe-to-upgrade/issues).
-* [Submitting a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md) with changes.
+* [Creating a new issue](https://github.com/dogweather/safe-to-upgrade/issues)
+* [Submitting a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md)
