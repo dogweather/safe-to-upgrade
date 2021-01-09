@@ -6,7 +6,7 @@ Crowdsourced db of dev tools, interpreters, and compilers. Can we take a chance 
 
 App             | Catalina 10.15.7 | Big Sur 11.1
 --------------- | ---------------- | ------------ 
-Homebrew        | :star: | :thinking: Need confirmation: [Compatible since v. 2.6.0.](https://brew.sh/2020/12/01/homebrew-2.6.0/)
+Homebrew        | :star: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
 VS Code         | :star: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
 Emacs           | :star: | ?
 Haskell (Stack) | :star: | ?
