@@ -14,7 +14,7 @@ Haskell (Stack) | ?
 Ruby (rbenv)    | ?
 Python (pyenv)  | ?
 
-_Add other OS's here._
+> Other OS's to go here.
 
 ### Add your knowledge
 
