@@ -1,4 +1,4 @@
-## "Is it safe to upgrade?"
+## "Is it safe?"
 
 Crowdsourced db of dev tools, interpreters, and compilers. Can we take a chance and upgrade our work machine?
 
