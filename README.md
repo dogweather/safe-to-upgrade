@@ -1,6 +1,10 @@
 ## "Is it safe to upgrade?"
 
-App             | macOS Big Sur 11.1
+Crowdsourced info for developers. Can we take a chance and upgrade our work machine?
+
+### macOS
+
+App             | Big Sur 11.1
 --------------- | ------------------
 Homebrew        | `unconfirmed` [It should be compatible since v. 2.6.0.](https://brew.sh/2020/12/01/homebrew-2.6.0/)
 VS Code         | `maybe not` [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
@@ -10,6 +14,9 @@ Haskell (Stack) | ?
 Ruby (rbenv)    | ?
 Python (pyenv)  | ?
 
+### Linux
+
+### Windows
 
 ### Add your knowledge
 
