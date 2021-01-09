@@ -6,14 +6,14 @@ Crowdsourced db of dev tools, interpreters, and compilers. Can we take a chance 
 
 App             | Catalina 10.15.7 | Big Sur 11.1
 --------------- | ---------------- | ------------ 
-Homebrew        | :star: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
-VS Code         | :star: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
-Emacs           | :star: | :grey_question:
-Haskell (Stack) | :star: | :grey_question:
-Node            | :star: | :grey_question:
-Python (pyenv)  | :star: | :grey_question:
-Ruby (rbenv)    | :star: | :grey_question:
-Rust (rustup)   | :star: | :grey_question:
+Homebrew        | :+1: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
+VS Code         | :+1: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
+Emacs           | :+1: | :grey_question:
+Haskell (Stack) | :+1: | :grey_question:
+Node            | :+1: | :grey_question:
+Python (pyenv)  | :+1: | :grey_question:
+Ruby (rbenv)    | :+1: | :grey_question:
+Rust (rustup)   | :+1: | :grey_question:
 
 ### Flavors of Linux, Windows, etc.
 
