@@ -5,6 +5,13 @@ App      | macOS Big Sur 11.1
 Homebrew | ?
 VS Code  | ?    
 
-You can use the [editor on GitHub](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Get help
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Ask questions in the forum](https://github.com/dogweather/safe-to-upgrade/discussions)
+
+### Contribute your knowledge
+
+Help out with changes in either of these ways:
+
+* [Fork the repo and submit a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md) with changes.
+* [Create a new issue](https://github.com/dogweather/safe-to-upgrade/issues).
