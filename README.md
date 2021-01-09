@@ -8,11 +8,11 @@ App             | Catalina 10.15.7 | Big Sur 11.1
 --------------- | ---------------- | ------------ 
 Homebrew        | :star: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
 VS Code         | :star: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
-Emacs           | :star: | ?
-Haskell (Stack) | :star: | ?
-Python (pyenv)  | :star: | ?
-Ruby (rbenv)    | :star: | ?
-Rust (rustup)   | :star: | ?
+Emacs           | :star: | :grey_question:
+Haskell (Stack) | :star: | :grey_question:
+Python (pyenv)  | :star: | :grey_question:
+Ruby (rbenv)    | :star: | :grey_question:
+Rust (rustup)   | :star: | :grey_question:
 
 ### Flavors of Linux, Windows, etc.
 
