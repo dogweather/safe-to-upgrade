@@ -1,6 +1,6 @@
 ## "Is it safe?"
 
-Crowdsourced db of dev tools and OS versions. Can we take a chance and upgrade our work machine?
+Crowdsourced db of dev tools and OS versions.
 
 ### macOS
 
