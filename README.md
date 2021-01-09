@@ -1,6 +1,6 @@
 ## "Is it safe to upgrade?"
 
-Crowdsourced info for developers. Can we take a chance and upgrade our work machine?
+Crowdsourced db for developers. Can we take a chance and upgrade our work machine?
 
 ### macOS
 
@@ -21,3 +21,4 @@ Python (pyenv)  | ?
 * [Ask a question in the forum](https://github.com/dogweather/safe-to-upgrade/discussions)
 * [Create a new issue](https://github.com/dogweather/safe-to-upgrade/issues)
 * [Submit a PR](https://github.com/dogweather/safe-to-upgrade/edit/master/README.md)
+
