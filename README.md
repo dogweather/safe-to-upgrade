@@ -6,15 +6,15 @@ Crowdsourced db of dev tools and OS versions.
 
 App             | Catalina 10.15.7 | Big Sur 11.1
 --------------- | ---------------- | ------------ 
-Homebrew        | :+1: | :thinking: [Needs confirmation](https://brew.sh/2020/12/01/homebrew-2.6.0/)
-VS Code         | :+1: | :boom: [Reports of crashes](https://developercommunity.visualstudio.com/content/problem/1273360/visual-studio-code-151-crashes-mac-os-big-sur.html)
+Homebrew        | :+1: | :+1:
+VS Code         | :+1: | :+1:
 Emacs           | :+1: | :grey_question:
 Elixir          | :+1: | :grey_question:
 Haskell (Stack) | :+1: | :grey_question:
-Node            | :+1: | :grey_question:
+Node            | :+1: | :+1:
 Python (pyenv)  | :+1: | :grey_question:
-Ruby (rbenv)    | :+1: | :grey_question:
-Rust (rustup)   | :+1: | :grey_question:
+Ruby (rbenv)    | :+1: | :+1:
+Rust (rustup)   | :+1: | :+1:
 
 ### Flavors of Linux, Windows, etc.
 
