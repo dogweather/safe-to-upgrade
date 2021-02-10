@@ -6,6 +6,7 @@ Crowdsourced db of dev tools and OS versions.
 
 App             | Catalina 10.15.7 | Big Sur 11.1
 --------------- | ---------------- | ------------ 
+PostgreSQL      | :+1: | [No](https://www.postgresql.org/download/macosx/) 
 Homebrew        | :+1: | :+1:
 VS Code         | :+1: | :+1:
 Emacs           | :+1: | :grey_question:
